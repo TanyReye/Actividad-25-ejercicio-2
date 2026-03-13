@@ -84,7 +84,7 @@ do
             break;
             
         case 3:
-
+            Console.WriteLine("waza");
         break;
     }
 }
